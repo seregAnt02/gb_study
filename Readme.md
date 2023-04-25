@@ -76,8 +76,10 @@ git help <название_команды>
 ## Как его скопировать обратно себе на компьютер
 *git clone <адрес_репозитория>*
 
-### Адрес картинки: 
-https://habrastorage.org/r/w1560/getpro/habr/upload_files/574/bb2/a87/574bb2a8719a01dad2f63e803f550a66.png
+### Связать локальный и удаленный репозитории
+git remote add <repository_name> link
+Вместо repository_name нужно дать имя удаленному репозиторию
+Вместо link — ссылка на удаленный репозиторий
 
 
 
